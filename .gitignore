@@ -1,0 +1,7 @@
+pics
+vids
+*.js
+*.csv
+config.local.json
+scripts/testPage.html
+scripts/createTestList.py

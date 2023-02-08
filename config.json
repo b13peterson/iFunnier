@@ -1,0 +1,9 @@
+{
+    "storage": {
+        "folder": "iFunny",
+        "list": "smiles"
+    },
+    "drivers": {
+        "chrome": "C:/users/{REPLACE_USERNAME_HERE}/appdata/local/programs/common/chromedriver"
+    }
+}
